@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I am Farai Mukona👋
+
+- Luddy Computer Science Alum | Aspiring Software Engineer/Dev 
+- 📫 How to reach me: faraimukona6@gmail.com | www.linkedin.com/in/farai-mukona-34639221b
+- 😄 Pronouns: He/Him
 
 <!--
 **certified-fmukona/certified-fmukona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
