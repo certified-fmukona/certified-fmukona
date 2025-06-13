@@ -4,7 +4,6 @@
 - 📫 How to reach me: faraimukona6@gmail.com | www.linkedin.com/in/farai-mukona-34639221b
 - 😄 Pronouns: He/Him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certified-fmukona&size_weight=0.5&count_weight=0.5)
 <!--
 **certified-fmukona/certified-fmukona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
